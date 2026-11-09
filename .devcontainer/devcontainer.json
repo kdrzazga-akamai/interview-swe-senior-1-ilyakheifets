@@ -1,0 +1,13 @@
+{
+  "name": "Expenses project",
+  "image": "mcr.microsoft.com/devcontainers/python:3",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vsliveshare.vsliveshare",
+        "mathematic.vscode-pdf",
+        "ms-python.python"
+      ]
+    }
+  }
+}
